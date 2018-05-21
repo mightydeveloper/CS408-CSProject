@@ -1,6 +1,11 @@
 import numpy as np
 import math
 from datetime import datetime, timedelta
+import os
+
+def check_dir(dir_path):
+    if not os.path.exists(dir_path):
+        os.makedirs(dir_path)
 
 def read_filedata(filename):
     """
