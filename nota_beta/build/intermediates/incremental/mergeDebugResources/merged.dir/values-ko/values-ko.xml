@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NOTAKeyboard">Gait키보드</string>
+    <string name="back">이전</string>
+    <string name="backspace">백스페이스</string>
+    <string name="cancel">취소</string>
+    <string name="complete">완료</string>
+    <string name="confirm">확인</string>
+    <string name="english">영어</string>
+    <string name="enter">Enter</string>
+    <string name="enter_go">이동</string>
+    <string name="enter_next">다음</string>
+    <string name="enter_search">찾기</string>
+    <string name="enter_send">전송</string>
+    <string name="korean">한글</string>
+    <string name="landscape_english_keyboard">가로 영어키보드</string>
+    <string name="landscape_korean_keyboard">가로 한글키보드</string>
+    <string name="landscape_korean_keyboard_shift">가로 한글키보드(shift)</string>
+    <string name="next">다음</string>
+    <string name="notice">알림</string>
+    <string name="original">기본</string>
+    <string name="portrait_english_keyboard">세로 영어키보드</string>
+    <string name="portrait_korean_keyboard">세로 한글키보드</string>
+    <string name="portrait_korean_keyboard_shift">세로 한글키보드(shift)</string>
+    <string name="preference">설정</string>
+    <string name="shift">Shift</string>
+    <string name="space">스페이스</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="symbol">기호</string>
+    <string name="toggle_lang">한/영</string>
+</resources>

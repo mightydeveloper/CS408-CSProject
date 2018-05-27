@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="vertical"
+	    android:padding="15dp" >
+	    <TextView
+	        android:id="@+id/instructionTextView"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginBottom="10dp"
+	        android:gravity="center"
+	        android:padding="10dp"
+	        android:textColor="@color/preference_black"
+	        android:text="@string/try_instruction"
+	        android:textSize="15sp" />
+	    
+	    <EditText
+	        android:id="@+id/tryTextView"
+	        android:layout_width="match_parent"
+	        android:layout_height="150dp"
+	        android:textSize="12sp"
+	        android:gravity="top"
+	        android:padding="10dp"
+	        android:hint="@string/try_keyboard_hint"
+	        android:layout_marginBottom="10dp" />
+	    
+	    <Button
+	        android:id="@+id/confirmButton"
+	        android:layout_width="140dp"
+	        android:layout_height="40dp"
+	        android:background="@drawable/alert_confirm"
+	        android:clickable="true"
+	        android:layout_gravity="center_horizontal"
+	        android:gravity="center"
+	        android:textColor="@drawable/alert_confirm_text"
+	        android:text="@string/confirm"
+	        android:textSize="15sp"
+	        android:textStyle="bold" />
+	</LinearLayout>
+</ScrollView>

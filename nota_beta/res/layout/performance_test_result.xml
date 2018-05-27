@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/default_white"
+              android:paddingLeft="10dp"
+              android:paddingRight="30dp"
+              android:weightSum="12">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/view_report_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="View Test Report"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:id="@+id/suit_number"
+                android:textColor="@android:color/black"
+                android:text="Suit Number :"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:id="@+id/round_number"
+                android:textColor="@android:color/black"
+                android:text="Number of rounds :"/>
+
+            <TableLayout
+                android:layout_width="476dp"
+                android:layout_height="wrap_content">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:textSize="17sp">
+
+                    <TextView
+                        android:id="@+id/metric_column_name"
+                        android:layout_width="80dp"
+                        android:layout_height="30dp"
+                        android:text="Metric"
+                        android:textColor="@color/default_key_text"
+                        android:textSize="17sp"/>
+
+                    <TextView
+                        android:id="@+id/use_nota_col"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="NOTA"
+                        android:textColor="@color/default_key_text"
+                        android:textSize="17sp"/>
+
+                    <TextView
+                        android:id="@+id/use_no_nota_col"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No NOTA"
+                        android:textColor="@color/default_key_text"
+                        android:textSize="17sp"/>
+
+                    <TextView
+                        android:id="@+id/increase_rate_col"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Rate"
+                        android:textColor="@color/default_key_text"
+                        android:textSize="17sp"/>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp">
+
+                    <TextView
+                        android:id="@+id/ner_title"
+                        android:layout_width="80dp"
+                        android:layout_height="30dp"
+                        android:text="NER"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/ner_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/ner_no_nota_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/ner_rate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp">
+
+                    <TextView
+                        android:id="@+id/ter_title"
+                        android:layout_width="80dp"
+                        android:layout_height="30dp"
+                        android:text="TER"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/ter_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/ter_no_nota_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/ter_rate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp">
+
+                    <TextView
+                        android:id="@+id/uer_title"
+                        android:layout_width="80dp"
+                        android:layout_height="30dp"
+                        android:text="UER"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/uer_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/uer_no_nota_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/uer_rate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp">
+
+                    <TextView
+                        android:id="@+id/cpm_title"
+                        android:layout_width="80dp"
+                        android:layout_height="30dp"
+                        android:text="CPM"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/cpm_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/cpm_no_nota_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/cpm_rate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp">
+
+                    <TextView
+                        android:id="@+id/nbs_title"
+                        android:layout_width="80dp"
+                        android:layout_height="30dp"
+                        android:text="NBS"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/nbs_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/nbs_no_nota_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/nbs_rate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp">
+
+                    <TextView
+                        android:id="@+id/langmodel_keycode_col"
+                        android:layout_width="80dp"
+                        android:layout_height="40dp"
+                        android:text="LangModel Keycode"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/langmodel_keycode_avg"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp">
+
+                    <TextView
+                        android:id="@+id/ner_title_re"
+                        android:layout_width="80dp"
+                        android:layout_height="30dp"
+                        android:text="NER-Re"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/ner_content_re"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/ner_no_nota_content_re"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/ner_rate_re"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp">
+
+                    <TextView
+                        android:id="@+id/ter_title_re"
+                        android:layout_width="80dp"
+                        android:layout_height="30dp"
+                        android:text="TER-Re"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/ter_content_re"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/ter_no_nota_content_re"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/ter_rate_re"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp">
+
+                    <TextView
+                        android:id="@+id/uer_title_re"
+                        android:layout_width="80dp"
+                        android:layout_height="30dp"
+                        android:text="UER-Re"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/uer_content_re"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/uer_no_nota_content_re"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/uer_rate_re"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp">
+
+                    <TextView
+                        android:id="@+id/nbs_title_re"
+                        android:layout_width="80dp"
+                        android:layout_height="30dp"
+                        android:text="NBS-Re"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/nbs_content_re"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/nbs_no_nota_content_re"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+
+                    <TextView
+                        android:id="@+id/nbs_rate_re"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/default_key_text"/>
+                </TableRow>
+            </TableLayout>
+
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/distance_test_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/default_key_text"
+                    android:typeface="monospace"
+                    android:text="Distance Test Result"/>
+            </HorizontalScrollView>
+
+            <Button
+                android:id="@+id/test_result_reset_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Reset Test Result"/>
+
+            <Button
+                android:id="@+id/send_test_result_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Send Test Data To Server"/>
+
+            <Button
+                android:id="@+id/create_chart_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Make comparison chart for different distances"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

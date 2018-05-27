@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="key_height">55dp</dimen>
+    <dimen name="numkey_height">45dp</dimen>
+</resources>

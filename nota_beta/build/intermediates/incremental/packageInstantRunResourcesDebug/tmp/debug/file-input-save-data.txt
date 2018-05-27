@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue May 01 19:51:26 KST 2018
+1.base=F\:\\Android Projects\\GaitKeyboard\\nota_beta\\build\\intermediates\\assets\\debug
+2.path=pangrams.txt
+0.baseType=DIRECTORY
+2.base=F\:\\Android Projects\\GaitKeyboard\\nota_beta\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=frozen_models/frozen_model.pb
+0.set=ASSET
+0.base=F\:\\Android Projects\\GaitKeyboard\\nota_beta\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=fonts/D2Coding.ttf

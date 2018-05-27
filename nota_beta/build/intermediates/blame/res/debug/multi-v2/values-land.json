@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Android Projects\\GaitKeyboard\\nota_beta\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "F:\\Android Projects\\GaitKeyboard\\nota_beta\\res\\values-land\\dimens.xml",
+                    "from": {
+                        "startLines": "21,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "713,756",
+                        "endColumns": "41,44",
+                        "endOffsets": "750,796"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,44",
+                        "endOffsets": "92,137"
+                    }
+                }
+            ]
+        }
+    ]
+}

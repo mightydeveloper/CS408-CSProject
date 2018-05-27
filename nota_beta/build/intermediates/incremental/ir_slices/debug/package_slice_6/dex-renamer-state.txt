@@ -1,0 +1,4 @@
+#Tue May 01 19:51:28 KST 2018
+base.0=F\:\\Android Projects\\GaitKeyboard\\nota_beta\\build\\intermediates\\transforms\\dexMerger\\debug\\82
+path.0=classes.dex
+renamed.0=classes.dex
