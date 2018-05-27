@@ -269,6 +269,9 @@ public class NIMService extends InputMethodService
   public void onKey(int primaryCode, int[] keyCodes) {
     NKeyboard current = inputView.getKeyboard();
 
+    if(inputView.isBlocked)
+      unblockKeyboard();
+
     if (current == qwerty) {
       handleQwerty(primaryCode);
     } else if (current == korean || current == korean_shift) {
@@ -717,6 +720,18 @@ public class NIMService extends InputMethodService
       hangulAutomata.reset();
       hangulAutomata.stateReset();
     }
+
+    blockKeyboard();
+  }
+
+  public void blockKeyboard() {
+    inputView.isBlocked = true;
+    inputView.invalidate();
+  }
+
+  public void unblockKeyboard() {
+    inputView.isBlocked = false;
+    inputView.invalidate();
   }
 
   @Override

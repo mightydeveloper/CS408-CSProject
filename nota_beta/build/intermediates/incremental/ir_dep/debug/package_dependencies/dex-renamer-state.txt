@@ -1,4 +1,4 @@
-#Tue May 01 19:48:01 KST 2018
-base.0=F\:\\Android Projects\\GaitKeyboard\\nota_beta\\build\\intermediates\\transforms\\dexMerger\\debug\\86
+#Sun May 27 23:16:03 KST 2018
+base.0=/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/transforms/dexMerger/debug/11
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Android Projects\\GaitKeyboard\\nota_beta\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-is\\values-is.xml",
+            "outputFile": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\e3cdaac6b13d51aadc95cb5a8c57f0c9\\res\\values-is\\values-is.xml",
+                    "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c6bc2599efa85b22018ed9c32ba562d0/res/values-is/values-is.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

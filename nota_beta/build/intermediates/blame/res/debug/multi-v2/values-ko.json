@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Android Projects\\GaitKeyboard\\nota_beta\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ko\\values-ko.xml",
+            "outputFile": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\e3cdaac6b13d51aadc95cb5a8c57f0c9\\res\\values-ko\\values-ko.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "27",
-                        "startColumns": "4",
-                        "startOffsets": "1224",
-                        "endColumns": "100",
-                        "endOffsets": "1320"
-                    }
-                },
-                {
-                    "source": "F:\\Android Projects\\GaitKeyboard\\nota_beta\\res\\values-ko\\strings.xml",
+                    "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/values-ko/strings.xml",
                     "from": {
                         "startLines": "2,4,21,7,8,6,33,25,26,27,28,29,34,12,14,13,5,9,3,15,17,16,37,20,24,22,23",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "55,104,140,184,222,262,301,340,380,420,462,506,548,586,650,713,789,825,863,903,966,1028,1103,1145,1185,1325,1363",
                         "endColumns": "48,35,43,37,39,38,38,39,39,41,43,41,37,63,62,75,35,37,39,62,61,74,41,39,38,37,43",
                         "endOffsets": "99,135,179,217,257,296,335,375,415,457,501,543,581,645,708,784,820,858,898,961,1023,1098,1140,1180,1219,1358,1402"
+                    }
+                },
+                {
+                    "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c6bc2599efa85b22018ed9c32ba562d0/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "1224",
+                        "endColumns": "100",
+                        "endOffsets": "1320"
                     }
                 }
             ]

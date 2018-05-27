@@ -5,102 +5,78 @@
     build-mode="COLD"
     density="xxhdpi"
     format="10"
-    ir-eligibility="R_CLASS_CHANGE"
-    plugin-version="3.1.0"
-    timestamp="1525171885043"
-    token="7093400598908209268"
+    ir-eligibility="COMPATIBLE"
+    plugin-version="3.1.2"
+    timestamp="1527432982489"
+    token="-2377817193393391349"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="915" />
+        duration="623" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="102" />
+        duration="42" />
     <task
         name="verifier"
-        duration="43" />
+        duration="11" />
 
     <artifact
-        location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        location="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
-    <artifact
-        location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\instant-run-apk\debug\nota_beta-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1525171678049"
+        timestamp="1527430558853"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\instant-run-apk\debug\nota_beta-debug.apk"
+            location="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/instant-run-apk/debug/nota_beta-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1525171885043"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1527432982489"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
-        <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\Android Projects\GaitKeyboard\nota_beta\build\intermediates\instant-run-apk\debug\nota_beta-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

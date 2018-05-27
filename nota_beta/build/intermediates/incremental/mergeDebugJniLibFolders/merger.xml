@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\Android Projects\GaitKeyboard\nota_beta\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="F:\Android Projects\GaitKeyboard\nota_beta\build-types\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build-types/debug/jniLibs"/></dataSet></merger>

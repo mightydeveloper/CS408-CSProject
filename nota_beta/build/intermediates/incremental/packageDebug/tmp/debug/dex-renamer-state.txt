@@ -1,7 +1,13 @@
-#Tue May 01 19:51:29 KST 2018
-base.0=F\:\\Android Projects\\GaitKeyboard\\nota_beta\\build\\intermediates\\transforms\\dexMerger\\debug\\87
+#Sun May 27 23:16:05 KST 2018
+path.3=classes.dex
+path.2=classes.dex
 path.1=classes.dex
-renamed.1=classes2.dex
 path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
-base.1=F\:\\Android Projects\\GaitKeyboard\\nota_beta\\build\\intermediates\\transforms\\dexMerger\\debug\\88
+base.3=/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/transforms/dexMerger/debug/14
+base.2=/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/transforms/dexMerger/debug/13
+base.1=/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/transforms/dexMerger/debug/12
+base.0=/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/transforms/dexMerger/debug/15

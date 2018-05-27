@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Android Projects\\GaitKeyboard\\nota_beta\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "F:\\Android Projects\\GaitKeyboard\\nota_beta\\res\\values-land\\dimens.xml",
+                    "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/values-land/dimens.xml",
                     "from": {
                         "startLines": "21,22",
                         "startColumns": "4,4",

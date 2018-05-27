@@ -17,6 +17,10 @@ import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.res.Resources;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.graphics.Color;
 import android.inputmethodservice.Keyboard.Key;
 import android.inputmethodservice.KeyboardView;
 import android.media.AudioAttributes;
@@ -46,6 +50,7 @@ public class NKeyboardView extends KeyboardView {
   private Context context;
   private NKeyboard keyboard;
   private PreferenceDB prefDBmanager;
+  public boolean isBlocked = false;
 
   private boolean isAlreadyEntered = false;
   private boolean isLongPressed = false;
@@ -186,6 +191,25 @@ public class NKeyboardView extends KeyboardView {
   public void onDraw(Canvas canvas) {
     super.onDraw(canvas);
     drawKeyboard(canvas, theme, false, keyboard);
+
+    if(isBlocked)
+    {
+      drawLockScreen(canvas);
+    }
+  }
+
+  public void drawLockScreen(Canvas canvas) {
+    canvas.drawColor(Color.BLACK);
+    Paint paint = new Paint();
+    Resources res = getResources();
+    Bitmap bitmap = BitmapFactory.decodeResource(res, R.drawable.lock_icon_512);
+    Bitmap resized = Bitmap.createScaledBitmap(bitmap, 300, 300, true);
+
+    Rect canvasrect = canvas.getClipBounds();
+    canvas.drawBitmap(resized, canvasrect.centerX() - resized.getWidth()/2, canvasrect.centerY() - resized.getHeight()*3/4, paint);
+    paint.setColor(Color.YELLOW);
+    paint.setTextSize(80);
+    canvas.drawText("Your phone is locked!", 155, canvasrect.centerY() + resized.getHeight()/2, paint);
   }
 
   /**

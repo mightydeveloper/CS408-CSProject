@@ -103,7 +103,8 @@
         android:debuggable="true"
         android:icon="@drawable/icon"
         android:label="@string/NOTAKeyboard"
-        android:largeHeap="true" >
+        android:largeHeap="true"
+        android:testOnly="true" >
         <service
             android:name="com.notakeyboard.keyboard.NIMService"
             android:permission="android.permission.BIND_INPUT_METHOD" >

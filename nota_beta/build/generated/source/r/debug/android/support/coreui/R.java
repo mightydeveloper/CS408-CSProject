@@ -50,18 +50,18 @@ public final class R {
         public static final int notification_top_pad_large_text = 0x7f040014;
     }
     public static final class drawable {
-        public static final int notification_action_background = 0x7f050036;
-        public static final int notification_bg = 0x7f050037;
-        public static final int notification_bg_low = 0x7f050038;
-        public static final int notification_bg_low_normal = 0x7f050039;
-        public static final int notification_bg_low_pressed = 0x7f05003a;
-        public static final int notification_bg_normal = 0x7f05003b;
-        public static final int notification_bg_normal_pressed = 0x7f05003c;
-        public static final int notification_icon_background = 0x7f05003d;
-        public static final int notification_template_icon_bg = 0x7f05003e;
-        public static final int notification_template_icon_low_bg = 0x7f05003f;
-        public static final int notification_tile_bg = 0x7f050040;
-        public static final int notify_panel_notification_icon_bg = 0x7f050041;
+        public static final int notification_action_background = 0x7f050037;
+        public static final int notification_bg = 0x7f050038;
+        public static final int notification_bg_low = 0x7f050039;
+        public static final int notification_bg_low_normal = 0x7f05003a;
+        public static final int notification_bg_low_pressed = 0x7f05003b;
+        public static final int notification_bg_normal = 0x7f05003c;
+        public static final int notification_bg_normal_pressed = 0x7f05003d;
+        public static final int notification_icon_background = 0x7f05003e;
+        public static final int notification_template_icon_bg = 0x7f05003f;
+        public static final int notification_template_icon_low_bg = 0x7f050040;
+        public static final int notification_tile_bg = 0x7f050041;
+        public static final int notify_panel_notification_icon_bg = 0x7f050042;
     }
     public static final class id {
         public static final int action_container = 0x7f06000c;
