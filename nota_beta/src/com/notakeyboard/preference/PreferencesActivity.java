@@ -201,6 +201,7 @@ public class PreferencesActivity extends Activity {
   }
 
   private void resetMap() {
+    System.out.println("==============RESETMAP===========");
     if (Define.isTrainingNow) {
       Toast.makeText(this, R.string.already_train_now_alert, Toast.LENGTH_SHORT).show();
       return;

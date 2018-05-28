@@ -1,3 +1,0 @@
-# Referenced at /Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/manifests/full/debug/AndroidManifest.xml:100
--keep class android.support.multidex.MultiDexApplication { <init>(...); }
-

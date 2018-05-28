@@ -1,5 +1,7 @@
 package com.notakeyboard.keyboard;
 
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 import com.notakeyboard.R;
 import com.notakeyboard.Define;
 import com.notakeyboard.HangulAutomata;
@@ -7,6 +9,10 @@ import com.notakeyboard.db.BaseDB;
 import com.notakeyboard.db.KeySpecDB;
 import com.notakeyboard.db.PrefData;
 import com.notakeyboard.db.PreferenceDB;
+import com.twitter.penguin.korean.KoreanTokenJava;
+import com.twitter.penguin.korean.TwitterKoreanProcessorJava;
+import com.twitter.penguin.korean.phrase_extractor.KoreanPhraseExtractor;
+import com.twitter.penguin.korean.tokenizer.KoreanTokenizer;
 
 import android.annotation.SuppressLint;
 import android.inputmethodservice.InputMethodService;
@@ -15,6 +21,17 @@ import android.text.InputType;
 import android.view.View;
 import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputConnection;
+
+import org.json.JSONObject;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import scala.collection.Seq;
+
 
 /**
  * NOTA Input Method Service Class
@@ -46,6 +63,9 @@ public class NIMService extends InputMethodService
   private int layoutNum;
   private StringBuilder cheonjiinTextBuilder;
   private String lang;
+  private JSONObject obj = null;
+  private Map<String, Object> retMap = null;
+
 
   /**
    * Creates an InputMethodService. It stays alive until onDestroy() is called.
@@ -53,6 +73,32 @@ public class NIMService extends InputMethodService
   @Override
   public void onCreate() {
     super.onCreate();
+    //ma = new MorphemeAnalyzer();
+    //ma.createLogger(null);
+    TwitterKoreanProcessorJava.normalize("오늘날");
+    String json = null;
+    try {
+
+      InputStream is = getAssets().open("twitterterm.json");
+      int size = is.available();
+      byte[] buffer = new byte[size];
+      is.read(buffer);
+      is.close();
+      json = new String(buffer, "UTF-8");
+      obj = new JSONObject(json);
+      System.out.println(obj.length());
+      //retMap = toMap
+
+      retMap = new Gson().fromJson(
+              obj.toString(), new TypeToken<HashMap<String, Object>>() {}.getType()
+      );
+      System.out.println(retMap.containsKey("사랑"));
+
+    } catch (Exception ex) {
+      ex.printStackTrace();
+    }
+
+
     PrefData prefData = new PrefData(this);
     prefDB = new PreferenceDB(this);
 
@@ -721,6 +767,37 @@ public class NIMService extends InputMethodService
       hangulAutomata.stateReset();
     }
 
+    if(ic != null) {
+      CharSequence strlist = ic.getTextBeforeCursor(300, 0);
+      String[] split = strlist.toString().split("\\s+");
+
+      if(split.length >= 10) {
+        String target = "";
+        for (int i = split.length - 10; i < split.length; ++i) {
+          target += split[i] + " ";
+        }
+        CharSequence normalized = TwitterKoreanProcessorJava.normalize(target);
+        Seq<KoreanTokenizer.KoreanToken> tokens = TwitterKoreanProcessorJava.tokenize(normalized);
+        System.out.println(TwitterKoreanProcessorJava.tokensToJavaStringList(tokens));
+        //System.out.println(TwitterKoreanProcessorJava.tokensToJavaKoreanTokenList(tokens));
+
+        int contains = 0;
+        Seq<KoreanTokenizer.KoreanToken> stemmed = TwitterKoreanProcessorJava.stem(tokens);
+        List<KoreanTokenJava> koreanTokenJavas = TwitterKoreanProcessorJava.tokensToJavaKoreanTokenList(stemmed);
+        for(int i=0; i<koreanTokenJavas.size(); ++i)
+        {
+          //System.out.println(koreanTokenJavas.get(i).getText());
+          if(retMap.containsKey(koreanTokenJavas.get(i).getText()))
+            contains ++;
+          else
+            System.out.println(koreanTokenJavas.get(i).getText());
+        }
+        System.out.println("======= ratio : " + contains + "/" + koreanTokenJavas.size());
+        //System.out.println(TwitterKoreanProcessorJava.tokensToJavaStringList(stemmed));
+        //System.out.println(TwitterKoreanProcessorJava.tokensToJavaKoreanTokenList(stemmed));
+      }
+    }
+
     blockKeyboard();
   }
 
@@ -749,6 +826,7 @@ public class NIMService extends InputMethodService
   @Override
   public void onDestroy() {
     super.onDestroy();
+    //ma.closeLogger();
   }
 
   private void resetDB() {

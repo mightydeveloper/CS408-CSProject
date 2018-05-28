@@ -5,7 +5,7 @@
     android:versionName="touchseqnota" >
 
     <uses-sdk
-        android:minSdkVersion="16"
+        android:minSdkVersion="26"
         android:targetSdkVersion="27" />
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -95,10 +95,7 @@
             android:screenSize="large" />
     </compatible-screens>
 
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-
     <application
-        android:name="android.support.multidex.MultiDexApplication"
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@drawable/icon"

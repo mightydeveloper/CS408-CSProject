@@ -519,8 +519,8 @@ public class NKeyboardView extends KeyboardView {
    */
   @Override
   protected boolean onLongPress(Key key) {
-    return false;
-    /*
+    //return false;
+
     if (collectTouches) {
       // do not show any effect of long presses during performance test
       return false;
@@ -532,7 +532,7 @@ public class NKeyboardView extends KeyboardView {
       return true;
     } else {
       return super.onLongPress(key);
-    }*/
+    }
   }
 
   /**

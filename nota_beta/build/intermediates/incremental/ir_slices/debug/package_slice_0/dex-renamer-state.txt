@@ -1,4 +1,4 @@
-#Sun May 27 23:16:04 KST 2018
-base.0=/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/transforms/dexMerger/debug/1
+#Tue May 29 02:23:56 KST 2018
+base.0=/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

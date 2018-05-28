@@ -15,19 +15,26 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int font=0x7f010000;
-    /**
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     */
-    public static final int fontProviderAuthority=0x7f010001;
+    public static final int coordinatorLayoutStyle=0x7f010000;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int fontProviderCerts=0x7f010002;
+    public static final int font=0x7f010001;
+    /**
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     */
+    public static final int fontProviderAuthority=0x7f010002;
+    /**
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     */
+    public static final int fontProviderCerts=0x7f010003;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -39,7 +46,7 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int fontProviderFetchStrategy=0x7f010003;
+    public static final int fontProviderFetchStrategy=0x7f010004;
     /**
      * <p>May be an integer value, such as "<code>100</code>".
      * <p>Must be one of the following constant values.</p>
@@ -51,17 +58,17 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      */
-    public static final int fontProviderFetchTimeout=0x7f010004;
+    public static final int fontProviderFetchTimeout=0x7f010005;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int fontProviderPackage=0x7f010005;
+    public static final int fontProviderPackage=0x7f010006;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int fontProviderQuery=0x7f010006;
+    public static final int fontProviderQuery=0x7f010007;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -73,11 +80,103 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int fontStyle=0x7f010007;
+    public static final int fontStyle=0x7f010008;
     /**
      * <p>May be an integer value, such as "<code>100</code>".
      */
-    public static final int fontWeight=0x7f010008;
+    public static final int fontWeight=0x7f010009;
+    /**
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     */
+    public static final int keylines=0x7f01000a;
+    /**
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     */
+    public static final int layout_anchor=0x7f01000b;
+    /**
+     * <p>Must be one or more (separated by '|') of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>bottom</td><td>50</td><td></td></tr>
+     * <tr><td>center</td><td>11</td><td></td></tr>
+     * <tr><td>center_horizontal</td><td>1</td><td></td></tr>
+     * <tr><td>center_vertical</td><td>10</td><td></td></tr>
+     * <tr><td>clip_horizontal</td><td>8</td><td></td></tr>
+     * <tr><td>clip_vertical</td><td>80</td><td></td></tr>
+     * <tr><td>end</td><td>800005</td><td></td></tr>
+     * <tr><td>fill</td><td>77</td><td></td></tr>
+     * <tr><td>fill_horizontal</td><td>7</td><td></td></tr>
+     * <tr><td>fill_vertical</td><td>70</td><td></td></tr>
+     * <tr><td>left</td><td>3</td><td></td></tr>
+     * <tr><td>right</td><td>5</td><td></td></tr>
+     * <tr><td>start</td><td>800003</td><td></td></tr>
+     * <tr><td>top</td><td>30</td><td></td></tr>
+     * </table>
+     */
+    public static final int layout_anchorGravity=0x7f01000c;
+    /**
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     */
+    public static final int layout_behavior=0x7f01000d;
+    /**
+     * <p>Must be one or more (separated by '|') of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>all</td><td>77</td><td></td></tr>
+     * <tr><td>bottom</td><td>50</td><td></td></tr>
+     * <tr><td>end</td><td>800005</td><td></td></tr>
+     * <tr><td>left</td><td>3</td><td></td></tr>
+     * <tr><td>none</td><td>0</td><td></td></tr>
+     * <tr><td>right</td><td>5</td><td></td></tr>
+     * <tr><td>start</td><td>800003</td><td></td></tr>
+     * <tr><td>top</td><td>30</td><td></td></tr>
+     * </table>
+     */
+    public static final int layout_dodgeInsetEdges=0x7f01000e;
+    /**
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>bottom</td><td>50</td><td></td></tr>
+     * <tr><td>end</td><td>800005</td><td></td></tr>
+     * <tr><td>left</td><td>3</td><td></td></tr>
+     * <tr><td>none</td><td>0</td><td></td></tr>
+     * <tr><td>right</td><td>5</td><td></td></tr>
+     * <tr><td>start</td><td>800003</td><td></td></tr>
+     * <tr><td>top</td><td>30</td><td></td></tr>
+     * </table>
+     */
+    public static final int layout_insetEdge=0x7f01000f;
+    /**
+     * <p>May be an integer value, such as "<code>100</code>".
+     */
+    public static final int layout_keyline=0x7f010010;
+    /**
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
+     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
+     * "<code>#<i>aarrggbb</i></code>".
+     */
+    public static final int statusBarBackground=0x7f010011;
   }
   public static final class bool {
     public static final int abc_action_bar_embed_tabs=0x7f020000;
@@ -333,126 +432,140 @@ public final class R {
     public static final int actions=0x7f060010;
     public static final int alert_set_text1=0x7f060011;
     public static final int alert_set_title=0x7f060012;
-    public static final int async=0x7f060013;
-    public static final int backBtn=0x7f060014;
-    public static final int blocking=0x7f060015;
-    public static final int boldTextCheckbox=0x7f060016;
-    public static final int cancel_action=0x7f060017;
-    public static final int categoryTextView=0x7f060018;
-    public static final int chronometer=0x7f060019;
-    public static final int collecttypo_button=0x7f06001a;
-    public static final int confirmButton=0x7f06001b;
-    public static final int content=0x7f06001c;
-    public static final int cpm_content=0x7f06001d;
-    public static final int cpm_no_nota_content=0x7f06001e;
-    public static final int cpm_rate=0x7f06001f;
-    public static final int cpm_title=0x7f060020;
-    public static final int create_chart_btn=0x7f060021;
-    public static final int decomposed_string_text=0x7f060022;
-    public static final int distance_test_text=0x7f060023;
-    public static final int end_padder=0x7f060024;
-    public static final int feedbackButton=0x7f060025;
-    public static final int forever=0x7f060026;
-    public static final int generate_map_btn=0x7f060027;
-    public static final int gmm_thresh=0x7f060028;
-    public static final int gridView=0x7f060029;
-    public static final int helpPager=0x7f06002a;
-    public static final int homepageButton=0x7f06002b;
-    public static final int icon=0x7f06002c;
-    public static final int icon_group=0x7f06002d;
-    public static final int increase_rate_col=0x7f06002e;
-    public static final int info=0x7f06002f;
-    public static final int infoTextView=0x7f060030;
-    public static final int instructionTextView=0x7f060031;
-    public static final int italic=0x7f060032;
-    public static final int keyboard=0x7f060033;
-    public static final int keyboardImageView=0x7f060034;
-    public static final int keyboard_map_nota=0x7f060035;
-    public static final int langmodel_keycode_avg=0x7f060036;
-    public static final int langmodel_keycode_col=0x7f060037;
-    public static final int layoutname=0x7f060038;
-    public static final int left=0x7f060039;
-    public static final int line1=0x7f06003a;
-    public static final int line3=0x7f06003b;
-    public static final int listView=0x7f06003c;
-    public static final int lm_thresh=0x7f06003d;
-    public static final int map_draw_progress=0x7f06003e;
-    public static final int map_test_input_text_edit=0x7f06003f;
-    public static final int media_actions=0x7f060040;
-    public static final int metric_column_name=0x7f060041;
-    public static final int naviArea=0x7f060042;
-    public static final int nbs_content=0x7f060043;
-    public static final int nbs_content_re=0x7f060044;
-    public static final int nbs_no_nota_content=0x7f060045;
-    public static final int nbs_no_nota_content_re=0x7f060046;
-    public static final int nbs_rate=0x7f060047;
-    public static final int nbs_rate_re=0x7f060048;
-    public static final int nbs_title=0x7f060049;
-    public static final int nbs_title_re=0x7f06004a;
-    public static final int ner_content=0x7f06004b;
-    public static final int ner_content_re=0x7f06004c;
-    public static final int ner_no_nota_content=0x7f06004d;
-    public static final int ner_no_nota_content_re=0x7f06004e;
-    public static final int ner_rate=0x7f06004f;
-    public static final int ner_rate_re=0x7f060050;
-    public static final int ner_title=0x7f060051;
-    public static final int ner_title_re=0x7f060052;
-    public static final int nextBtn=0x7f060053;
-    public static final int normal=0x7f060054;
-    public static final int notification_background=0x7f060055;
-    public static final int notification_main_column=0x7f060056;
-    public static final int notification_main_column_container=0x7f060057;
-    public static final int pageArea=0x7f060058;
-    public static final int pangram_number=0x7f060059;
-    public static final int pangram_sample=0x7f06005a;
-    public static final int pangram_typing=0x7f06005b;
-    public static final int prefCheckBox=0x7f06005c;
-    public static final int preferenceLayout=0x7f06005d;
-    public static final int privacyButton=0x7f06005e;
-    public static final int report_text_view=0x7f06005f;
-    public static final int right=0x7f060060;
-    public static final int right_icon=0x7f060061;
-    public static final int right_side=0x7f060062;
-    public static final int root=0x7f060063;
-    public static final int rootArea=0x7f060064;
-    public static final int round_number=0x7f060065;
-    public static final int selectDefaultIMEButton=0x7f060066;
-    public static final int send_test_result_btn=0x7f060067;
-    public static final int settingIMEButton=0x7f060068;
-    public static final int status_bar_latest_event_content=0x7f060069;
-    public static final int suit_number=0x7f06006a;
-    public static final int summaryTextView=0x7f06006b;
-    public static final int tag_transition_group=0x7f06006c;
-    public static final int ter_content=0x7f06006d;
-    public static final int ter_content_re=0x7f06006e;
-    public static final int ter_no_nota_content=0x7f06006f;
-    public static final int ter_no_nota_content_re=0x7f060070;
-    public static final int ter_rate=0x7f060071;
-    public static final int ter_rate_re=0x7f060072;
-    public static final int ter_title=0x7f060073;
-    public static final int ter_title_re=0x7f060074;
-    public static final int test_report_list_layout=0x7f060075;
-    public static final int test_result_reset_btn=0x7f060076;
-    public static final int text=0x7f060077;
-    public static final int text2=0x7f060078;
-    public static final int thumbLayout=0x7f060079;
-    public static final int thumbTheme=0x7f06007a;
-    public static final int time=0x7f06007b;
-    public static final int title=0x7f06007c;
-    public static final int titleTextView=0x7f06007d;
-    public static final int tryTextView=0x7f06007e;
-    public static final int uer_content=0x7f06007f;
-    public static final int uer_content_re=0x7f060080;
-    public static final int uer_no_nota_content=0x7f060081;
-    public static final int uer_no_nota_content_re=0x7f060082;
-    public static final int uer_rate=0x7f060083;
-    public static final int uer_rate_re=0x7f060084;
-    public static final int uer_title=0x7f060085;
-    public static final int uer_title_re=0x7f060086;
-    public static final int use_no_nota_col=0x7f060087;
-    public static final int use_nota_col=0x7f060088;
-    public static final int viewPager=0x7f060089;
-    public static final int view_report_btn=0x7f06008a;
+    public static final int all=0x7f060013;
+    public static final int async=0x7f060014;
+    public static final int backBtn=0x7f060015;
+    public static final int blocking=0x7f060016;
+    public static final int boldTextCheckbox=0x7f060017;
+    public static final int bottom=0x7f060018;
+    public static final int cancel_action=0x7f060019;
+    public static final int categoryTextView=0x7f06001a;
+    public static final int center=0x7f06001b;
+    public static final int center_horizontal=0x7f06001c;
+    public static final int center_vertical=0x7f06001d;
+    public static final int chronometer=0x7f06001e;
+    public static final int clip_horizontal=0x7f06001f;
+    public static final int clip_vertical=0x7f060020;
+    public static final int collecttypo_button=0x7f060021;
+    public static final int confirmButton=0x7f060022;
+    public static final int content=0x7f060023;
+    public static final int cpm_content=0x7f060024;
+    public static final int cpm_no_nota_content=0x7f060025;
+    public static final int cpm_rate=0x7f060026;
+    public static final int cpm_title=0x7f060027;
+    public static final int create_chart_btn=0x7f060028;
+    public static final int decomposed_string_text=0x7f060029;
+    public static final int distance_test_text=0x7f06002a;
+    public static final int end=0x7f06002b;
+    public static final int end_padder=0x7f06002c;
+    public static final int feedbackButton=0x7f06002d;
+    public static final int fill=0x7f06002e;
+    public static final int fill_horizontal=0x7f06002f;
+    public static final int fill_vertical=0x7f060030;
+    public static final int forever=0x7f060031;
+    public static final int generate_map_btn=0x7f060032;
+    public static final int gmm_thresh=0x7f060033;
+    public static final int gridView=0x7f060034;
+    public static final int helpPager=0x7f060035;
+    public static final int homepageButton=0x7f060036;
+    public static final int icon=0x7f060037;
+    public static final int icon_group=0x7f060038;
+    public static final int increase_rate_col=0x7f060039;
+    public static final int info=0x7f06003a;
+    public static final int infoTextView=0x7f06003b;
+    public static final int instructionTextView=0x7f06003c;
+    public static final int italic=0x7f06003d;
+    public static final int keyboard=0x7f06003e;
+    public static final int keyboardImageView=0x7f06003f;
+    public static final int keyboard_map_nota=0x7f060040;
+    public static final int langmodel_keycode_avg=0x7f060041;
+    public static final int langmodel_keycode_col=0x7f060042;
+    public static final int layoutname=0x7f060043;
+    public static final int left=0x7f060044;
+    public static final int line1=0x7f060045;
+    public static final int line3=0x7f060046;
+    public static final int listView=0x7f060047;
+    public static final int lm_thresh=0x7f060048;
+    public static final int map_draw_progress=0x7f060049;
+    public static final int map_test_input_text_edit=0x7f06004a;
+    public static final int media_actions=0x7f06004b;
+    public static final int metric_column_name=0x7f06004c;
+    public static final int naviArea=0x7f06004d;
+    public static final int nbs_content=0x7f06004e;
+    public static final int nbs_content_re=0x7f06004f;
+    public static final int nbs_no_nota_content=0x7f060050;
+    public static final int nbs_no_nota_content_re=0x7f060051;
+    public static final int nbs_rate=0x7f060052;
+    public static final int nbs_rate_re=0x7f060053;
+    public static final int nbs_title=0x7f060054;
+    public static final int nbs_title_re=0x7f060055;
+    public static final int ner_content=0x7f060056;
+    public static final int ner_content_re=0x7f060057;
+    public static final int ner_no_nota_content=0x7f060058;
+    public static final int ner_no_nota_content_re=0x7f060059;
+    public static final int ner_rate=0x7f06005a;
+    public static final int ner_rate_re=0x7f06005b;
+    public static final int ner_title=0x7f06005c;
+    public static final int ner_title_re=0x7f06005d;
+    public static final int nextBtn=0x7f06005e;
+    public static final int none=0x7f06005f;
+    public static final int normal=0x7f060060;
+    public static final int notification_background=0x7f060061;
+    public static final int notification_main_column=0x7f060062;
+    public static final int notification_main_column_container=0x7f060063;
+    public static final int pageArea=0x7f060064;
+    public static final int pangram_number=0x7f060065;
+    public static final int pangram_sample=0x7f060066;
+    public static final int pangram_typing=0x7f060067;
+    public static final int prefCheckBox=0x7f060068;
+    public static final int preferenceLayout=0x7f060069;
+    public static final int privacyButton=0x7f06006a;
+    public static final int report_text_view=0x7f06006b;
+    public static final int right=0x7f06006c;
+    public static final int right_icon=0x7f06006d;
+    public static final int right_side=0x7f06006e;
+    public static final int root=0x7f06006f;
+    public static final int rootArea=0x7f060070;
+    public static final int round_number=0x7f060071;
+    public static final int selectDefaultIMEButton=0x7f060072;
+    public static final int send_test_result_btn=0x7f060073;
+    public static final int settingIMEButton=0x7f060074;
+    public static final int start=0x7f060075;
+    public static final int status_bar_latest_event_content=0x7f060076;
+    public static final int suit_number=0x7f060077;
+    public static final int summaryTextView=0x7f060078;
+    public static final int tag_transition_group=0x7f060079;
+    public static final int ter_content=0x7f06007a;
+    public static final int ter_content_re=0x7f06007b;
+    public static final int ter_no_nota_content=0x7f06007c;
+    public static final int ter_no_nota_content_re=0x7f06007d;
+    public static final int ter_rate=0x7f06007e;
+    public static final int ter_rate_re=0x7f06007f;
+    public static final int ter_title=0x7f060080;
+    public static final int ter_title_re=0x7f060081;
+    public static final int test_report_list_layout=0x7f060082;
+    public static final int test_result_reset_btn=0x7f060083;
+    public static final int text=0x7f060084;
+    public static final int text2=0x7f060085;
+    public static final int thumbLayout=0x7f060086;
+    public static final int thumbTheme=0x7f060087;
+    public static final int time=0x7f060088;
+    public static final int title=0x7f060089;
+    public static final int titleTextView=0x7f06008a;
+    public static final int top=0x7f06008b;
+    public static final int tryTextView=0x7f06008c;
+    public static final int uer_content=0x7f06008d;
+    public static final int uer_content_re=0x7f06008e;
+    public static final int uer_no_nota_content=0x7f06008f;
+    public static final int uer_no_nota_content_re=0x7f060090;
+    public static final int uer_rate=0x7f060091;
+    public static final int uer_rate_re=0x7f060092;
+    public static final int uer_title=0x7f060093;
+    public static final int uer_title_re=0x7f060094;
+    public static final int use_no_nota_col=0x7f060095;
+    public static final int use_nota_col=0x7f060096;
+    public static final int viewPager=0x7f060097;
+    public static final int view_report_btn=0x7f060098;
   }
   public static final class integer {
     public static final int cancel_button_image_alpha=0x7f070000;
@@ -643,8 +756,213 @@ public final class R {
     public static final int TextAppearance_Compat_Notification_Title_Media=0x7f0b0009;
     public static final int Widget_Compat_NotificationActionContainer=0x7f0b000a;
     public static final int Widget_Compat_NotificationActionText=0x7f0b000b;
+    public static final int Widget_Support_CoordinatorLayout=0x7f0b000c;
   }
   public static final class styleable {
+    /**
+     * Attributes that can be used with a CoordinatorLayout.
+     * <p>Includes the following attributes:</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Attribute</th><th>Description</th></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.notakeyboard:keylines}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.notakeyboard:statusBarBackground}</code></td><td></td></tr>
+     * </table>
+     * @see #CoordinatorLayout_keylines
+     * @see #CoordinatorLayout_statusBarBackground
+     */
+    public static final int[] CoordinatorLayout={
+        0x7f01000a, 0x7f010011
+      };
+    /**
+     * <p>This symbol is the offset where the {@link com.notakeyboard.R.attr#keylines}
+     * attribute's value can be found in the {@link #CoordinatorLayout} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name com.notakeyboard:keylines
+     */
+    public static final int CoordinatorLayout_keylines=0;
+    /**
+     * <p>This symbol is the offset where the {@link com.notakeyboard.R.attr#statusBarBackground}
+     * attribute's value can be found in the {@link #CoordinatorLayout} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
+     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
+     * "<code>#<i>aarrggbb</i></code>".
+     *
+     * @attr name com.notakeyboard:statusBarBackground
+     */
+    public static final int CoordinatorLayout_statusBarBackground=1;
+    /**
+     * Attributes that can be used with a CoordinatorLayout_Layout.
+     * <p>Includes the following attributes:</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Attribute</th><th>Description</th></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.notakeyboard:layout_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.notakeyboard:layout_anchorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.notakeyboard:layout_behavior}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.notakeyboard:layout_dodgeInsetEdges}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.notakeyboard:layout_insetEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.notakeyboard:layout_keyline}</code></td><td></td></tr>
+     * </table>
+     * @see #CoordinatorLayout_Layout_android_layout_gravity
+     * @see #CoordinatorLayout_Layout_layout_anchor
+     * @see #CoordinatorLayout_Layout_layout_anchorGravity
+     * @see #CoordinatorLayout_Layout_layout_behavior
+     * @see #CoordinatorLayout_Layout_layout_dodgeInsetEdges
+     * @see #CoordinatorLayout_Layout_layout_insetEdge
+     * @see #CoordinatorLayout_Layout_layout_keyline
+     */
+    public static final int[] CoordinatorLayout_Layout={
+        0x010100b3, 0x7f01000b, 0x7f01000c, 0x7f01000d, 
+        0x7f01000e, 0x7f01000f, 0x7f010010
+      };
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#layout_gravity}
+     * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+     *
+     * <p>Must be one or more (separated by '|') of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>bottom</td><td>50</td><td></td></tr>
+     * <tr><td>center</td><td>11</td><td></td></tr>
+     * <tr><td>center_horizontal</td><td>1</td><td></td></tr>
+     * <tr><td>center_vertical</td><td>10</td><td></td></tr>
+     * <tr><td>clip_horizontal</td><td>8</td><td></td></tr>
+     * <tr><td>clip_vertical</td><td>80</td><td></td></tr>
+     * <tr><td>end</td><td>800005</td><td></td></tr>
+     * <tr><td>fill</td><td>77</td><td></td></tr>
+     * <tr><td>fill_horizontal</td><td>7</td><td></td></tr>
+     * <tr><td>fill_vertical</td><td>70</td><td></td></tr>
+     * <tr><td>left</td><td>3</td><td></td></tr>
+     * <tr><td>right</td><td>5</td><td></td></tr>
+     * <tr><td>start</td><td>800003</td><td></td></tr>
+     * <tr><td>top</td><td>30</td><td></td></tr>
+     * </table>
+     *
+     * @attr name android:layout_gravity
+     */
+    public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
+    /**
+     * <p>This symbol is the offset where the {@link com.notakeyboard.R.attr#layout_anchor}
+     * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name com.notakeyboard:layout_anchor
+     */
+    public static final int CoordinatorLayout_Layout_layout_anchor=1;
+    /**
+     * <p>This symbol is the offset where the {@link com.notakeyboard.R.attr#layout_anchorGravity}
+     * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+     *
+     * <p>Must be one or more (separated by '|') of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>bottom</td><td>50</td><td></td></tr>
+     * <tr><td>center</td><td>11</td><td></td></tr>
+     * <tr><td>center_horizontal</td><td>1</td><td></td></tr>
+     * <tr><td>center_vertical</td><td>10</td><td></td></tr>
+     * <tr><td>clip_horizontal</td><td>8</td><td></td></tr>
+     * <tr><td>clip_vertical</td><td>80</td><td></td></tr>
+     * <tr><td>end</td><td>800005</td><td></td></tr>
+     * <tr><td>fill</td><td>77</td><td></td></tr>
+     * <tr><td>fill_horizontal</td><td>7</td><td></td></tr>
+     * <tr><td>fill_vertical</td><td>70</td><td></td></tr>
+     * <tr><td>left</td><td>3</td><td></td></tr>
+     * <tr><td>right</td><td>5</td><td></td></tr>
+     * <tr><td>start</td><td>800003</td><td></td></tr>
+     * <tr><td>top</td><td>30</td><td></td></tr>
+     * </table>
+     *
+     * @attr name com.notakeyboard:layout_anchorGravity
+     */
+    public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
+    /**
+     * <p>This symbol is the offset where the {@link com.notakeyboard.R.attr#layout_behavior}
+     * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+     *
+     * <p>May be a string value, using '\\;' to escape characters such as
+     * '\\n' or '\\uxxxx' for a unicode character;
+     *
+     * @attr name com.notakeyboard:layout_behavior
+     */
+    public static final int CoordinatorLayout_Layout_layout_behavior=3;
+    /**
+     * <p>This symbol is the offset where the {@link com.notakeyboard.R.attr#layout_dodgeInsetEdges}
+     * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+     *
+     * <p>Must be one or more (separated by '|') of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>all</td><td>77</td><td></td></tr>
+     * <tr><td>bottom</td><td>50</td><td></td></tr>
+     * <tr><td>end</td><td>800005</td><td></td></tr>
+     * <tr><td>left</td><td>3</td><td></td></tr>
+     * <tr><td>none</td><td>0</td><td></td></tr>
+     * <tr><td>right</td><td>5</td><td></td></tr>
+     * <tr><td>start</td><td>800003</td><td></td></tr>
+     * <tr><td>top</td><td>30</td><td></td></tr>
+     * </table>
+     *
+     * @attr name com.notakeyboard:layout_dodgeInsetEdges
+     */
+    public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
+    /**
+     * <p>This symbol is the offset where the {@link com.notakeyboard.R.attr#layout_insetEdge}
+     * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+     *
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>bottom</td><td>50</td><td></td></tr>
+     * <tr><td>end</td><td>800005</td><td></td></tr>
+     * <tr><td>left</td><td>3</td><td></td></tr>
+     * <tr><td>none</td><td>0</td><td></td></tr>
+     * <tr><td>right</td><td>5</td><td></td></tr>
+     * <tr><td>start</td><td>800003</td><td></td></tr>
+     * <tr><td>top</td><td>30</td><td></td></tr>
+     * </table>
+     *
+     * @attr name com.notakeyboard:layout_insetEdge
+     */
+    public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
+    /**
+     * <p>This symbol is the offset where the {@link com.notakeyboard.R.attr#layout_keyline}
+     * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+     *
+     * <p>May be an integer value, such as "<code>100</code>".
+     *
+     * @attr name com.notakeyboard:layout_keyline
+     */
+    public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
      * Attributes that can be used with a FontFamily.
      * <p>Includes the following attributes:</p>
@@ -667,8 +985,8 @@ public final class R {
      * @see #FontFamily_fontProviderQuery
      */
     public static final int[] FontFamily={
-        0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004, 
-        0x7f010005, 0x7f010006
+        0x7f010002, 0x7f010003, 0x7f010004, 0x7f010005, 
+        0x7f010006, 0x7f010007
       };
     /**
      * <p>This symbol is the offset where the {@link com.notakeyboard.R.attr#fontProviderAuthority}
@@ -768,8 +1086,8 @@ public final class R {
      * @see #FontFamilyFont_fontWeight
      */
     public static final int[] FontFamilyFont={
-        0x01010532, 0x01010533, 0x0101053f, 0x7f010000, 
-        0x7f010007, 0x7f010008
+        0x01010532, 0x01010533, 0x0101053f, 0x7f010001, 
+        0x7f010008, 0x7f010009
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#font}
