@@ -2,7 +2,7 @@
 2018 Spring CSProject - Sobriety Inspector by 김영석 / 김재헌 / 박재준
 
 
-# Requirements
+# Dependencies
 - numpy
 - scipy
 - pandas
@@ -10,6 +10,7 @@
 - sklearn-porter
 
 
+# Code
 `Feature_data_from_java.ipynb` and `Feature_data_from_java2.ipynb` contains code for training and evaluating multiple classification models using scikit-learn
 
 `Feature_data_from_java` and `Feature_data_from_java2` converts java-generated features into pickle
