@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Jun 01 10:17:13 KST 2018
+1.base=F\:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=F\:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.path=twitterterm.json

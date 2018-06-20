@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml_method.xml.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\xml\\method.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml_korean.xml.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\xml\\korean.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_space.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_space.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_shift.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_shift.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_return.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_return.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\4923a6569c9b2e0d1a78755e83b110e5\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_delete.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_delete.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\4923a6569c9b2e0d1a78755e83b110e5\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lock_icon_512.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-xhdpi\\lock_icon_512.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_return.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_return.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_search.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_search.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\4923a6569c9b2e0d1a78755e83b110e5\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\4923a6569c9b2e0d1a78755e83b110e5\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml_qwerty.xml.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\xml\\qwerty.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_space.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_space.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\4923a6569c9b2e0d1a78755e83b110e5\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml_symbols.xml.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\xml\\symbols.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\4923a6569c9b2e0d1a78755e83b110e5\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_input.xml.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\layout\\input.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\4923a6569c9b2e0d1a78755e83b110e5\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_done.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_done.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\4923a6569c9b2e0d1a78755e83b110e5\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml_symbols_shift.xml.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\xml\\symbols_shift.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\4923a6569c9b2e0d1a78755e83b110e5\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_sentence.xml.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\layout\\sentence.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_search.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_search.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml_korean_shifted.xml.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\xml\\korean_shifted.xml"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sym_keyboard_shift.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_shift.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_done.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_done.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\CS408-CSProject\\ElkaKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\75205f686bae7eef4adea887a5e106f2\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
+            "outputFile": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ko\\values-ko.xml",
             "map": [
                 {
-                    "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/values-ko/values-ko.xml",
+                    "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\values-ko\\values-ko.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/values-ko/strings.xml",
+                    "source": "F:\\CS408-CSProject\\nota_beta\\res\\values-ko\\strings.xml",
                     "from": {
                         "startLines": "2,4,21,7,8,6,33,25,26,27,28,29,34,12,14,13,5,9,3,15,17,16,37,20,24,22,23",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml",
+            "outputFile": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
             "map": [
                 {
-                    "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/values-ms/values-ms.xml",
+                    "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\values-ms\\values-ms.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

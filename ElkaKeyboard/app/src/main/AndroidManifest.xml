@@ -1,0 +1,32 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.halbae87.koreanbasicime"
+    android:versionCode="6"
+    android:versionName="1.5" >
+
+    <!--<uses-sdk-->
+        <!--android:minSdkVersion="11"-->
+        <!--android:targetSdkVersion="13" />-->
+    <uses-feature android:required="false" android:name="android.hardware.touchscreen"/>
+
+    <application android:label="@string/ime_name"
+        android:icon="@drawable/ic_launcher"
+        android:allowBackup="false">
+        <service android:name="SoftKeyboard"
+                android:permission="android.permission.BIND_INPUT_METHOD">
+            <intent-filter>
+                <action android:name="android.view.InputMethod" />
+            </intent-filter>
+            <meta-data android:name="android.view.im" android:resource="@xml/method" />
+        </service>
+
+        <activity
+            android:name="Sentence"
+            android:theme="@android:style/Theme.Dialog"
+            android:screenOrientation="portrait">
+        </activity>
+
+
+        출처: http://rammuking.tistory.com/entry/Activity로-Dialog-Popup-만들기 [쥬리스티앙 죠르즁]
+    </application>
+
+</manifest>

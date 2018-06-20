@@ -1,982 +1,982 @@
 [
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_next.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/next.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th4_key_bg_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th4_key_bg_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_statistics_share_icon_blue.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/statistics_share_icon_blue.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th4_sym_sp.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th4_sym_sp.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_check_default.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/check_default.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th2_sym_sym.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th2_sym_sym.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable/notification_bg.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progressbar_bg.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\progressbar_bg.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th2_key_bg_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th2_key_bg_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th2_sym_capslock.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th2_sym_capslock.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th1_sym_delete.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th1_sym_delete.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_qwerty.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\qwerty.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dialog_button_right_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\dialog_button_right_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th1_nota.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th1_nota.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th3_sym_shifted.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th3_sym_shifted.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\25952e8f3e288eb6a1f407e5e09cddb6\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_thumb_qwerty_theme1_wo_glow.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/thumb_qwerty_theme1_wo_glow.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th1_nota.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th1_nota.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th2_sym_bg_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th2_sym_bg_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th3_sym_bg.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th3_sym_bg.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_qwerty_en.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/qwerty_en.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_initial_button_1_disabled.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\initial_button_1_disabled.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_setting_theme_cell.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/setting_theme_cell.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th3_sym_sym.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th3_sym_sym.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th1_sym_capslock.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th1_sym_capslock.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_numbers_symbol.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\numbers_symbol.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th4_sym_sym.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th4_sym_sym.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_performance_test_result.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\performance_test_result.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-mdpi_feedback_button_1_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-mdpi/feedback_button_1_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th2_sym_toggle_eng.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th2_sym_toggle_eng.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_pref_listview_bottom.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/pref_listview_bottom.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th4_sym_shift.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th4_sym_shift.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-mdpi_initial_button_2_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-mdpi/initial_button_2_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_thumb_qwerty_theme4_glow.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\thumb_qwerty_theme4_glow.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_symbols1_en.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/symbols1_en.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_only_listview.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\only_listview.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/77673e96969a9e4ade8f3d864fd6b37c/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_next.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\next.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_thumb_qwerty_theme3_glow.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/thumb_qwerty_theme3_glow.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_listview_bg_bottom_no_padding.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\listview_bg_bottom_no_padding.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th2_sym_nota.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th2_sym_nota.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th4_sym_sym.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th4_sym_sym.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th4_sym_sp.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th4_sym_sp.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_setting_fragment_activity.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\setting_fragment_activity.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_setting_lang_cell.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/setting_lang_cell.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_numbers.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\numbers.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_thumb_qwerty_theme4_glow.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/thumb_qwerty_theme4_glow.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_help_fragment_0.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\help_fragment_0.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_test_report_list.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/test_report_list.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_pref_listview_bottom.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\pref_listview_bottom.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th3_sym_toggle_kor.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th3_sym_toggle_kor.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\25952e8f3e288eb6a1f407e5e09cddb6\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_share_icon_blue.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/share_icon_blue.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_numpad_seekbar.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\numpad_seekbar.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th4_sym_bg_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th4_sym_bg_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_sym_keyboard_return.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/sym_keyboard_return.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_alert_with_cancel.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\alert_with_cancel.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_sym_keyboard_shifted.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/sym_keyboard_shifted.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sym_nota_key.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\sym_nota_key.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_initialize_info_1.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/initialize_info_1.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_setting_theme_cell.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\setting_theme_cell.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th3_sym_delete.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th3_sym_delete.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_prev.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\icon_prev.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th3_key_bg.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th3_key_bg.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_sym_keyboard_capslock.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/sym_keyboard_capslock.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th2_sym_enter.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th2_sym_enter.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_sym_nota_key.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/sym_nota_key.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th3_sym_capslock.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th3_sym_capslock.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_test_report.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\test_report.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_thumb_qwerty_theme4_wo_glow.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/thumb_qwerty_theme4_wo_glow.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th1_key_bg_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th1_key_bg_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_only_listview.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/only_listview.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_korean.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\korean.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_progress_indicator.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/progress_indicator.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th4_sym_shifted.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th4_sym_shifted.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_feedback_button.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/feedback_button.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_listview_bg_bottom_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\listview_bg_bottom_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_layoutthumb_cheonjiin_theme1_wo_glow.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/layoutthumb_cheonjiin_theme1_wo_glow.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th4_sym_capslock.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th4_sym_capslock.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th1_sym_sym.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th1_sym_sym.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_login_main.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\login_main.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_initial_button_1_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/initial_button_1_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_preference_text_black.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/preference_text_black.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dialog_button_left.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\dialog_button_left.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-mdpi_feedback_button_1.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-mdpi/feedback_button_1.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progress_indicator.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\progress_indicator.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_space.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-hdpi/sym_keyboard_space.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th3_sym_sp.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th3_sym_sp.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_dummy.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/dummy.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_setting_gridview.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\setting_gridview.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_listview_bg_bottom.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/listview_bg_bottom.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_method.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/method.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th2_sym_shifted.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th2_sym_shifted.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th3_sym_sym.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th3_sym_sym.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_initial_button_1.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\initial_button_1.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th1_sym_bg_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th1_sym_bg_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th4_sym_enter.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th4_sym_enter.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_listview_bg_top.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/listview_bg_top.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\25952e8f3e288eb6a1f407e5e09cddb6\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_introduce_5.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/introduce_5.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_initial_button_2.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\initial_button_2.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th2_sym_delete.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th2_sym_delete.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_init_setting_try.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/init_setting_try.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th3_sym_toggle_eng.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th3_sym_toggle_eng.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_pref_listview_top.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\pref_listview_top.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_thumb_qwerty_theme2_wo_glow.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/thumb_qwerty_theme2_wo_glow.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_initial_button_2_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-mdpi\\initial_button_2_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_preference_text_gray.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\preference_text_gray.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th2_nota.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th2_nota.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lock_icon_512.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\lock_icon_512.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-mdpi_initial_button_2.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-mdpi/initial_button_2.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th2_key_bg.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th2_key_bg.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\25952e8f3e288eb6a1f407e5e09cddb6\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_keyboard_map_view.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/keyboard_map_view.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/layout/notification_template_part_chronometer.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_layoutthumb_cheonjiin_theme1_wo_glow.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\layoutthumb_cheonjiin_theme1_wo_glow.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_previous.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/previous.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_initial_button_1_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\initial_button_1_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_dialog_button.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/dialog_button.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_initialize.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\initialize.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th1_key_bg_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th1_key_bg_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th1_sym_nota.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th1_sym_nota.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th4_sym_bg.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th4_sym_bg.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th3_key_bg.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th3_key_bg.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_korean_shift.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/korean_shift.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_initial_button_1_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-mdpi\\initial_button_1_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th1_sym_toggle_kor.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th1_sym_toggle_kor.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\25952e8f3e288eb6a1f407e5e09cddb6\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_performance_test_collect_typo.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/performance_test_collect_typo.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_listview_bg_bottom_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/listview_bg_bottom_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_thumb_qwerty_theme4_wo_glow.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\thumb_qwerty_theme4_wo_glow.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-mdpi_initial_button_1_disabled.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-mdpi/initial_button_1_disabled.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th2_sym_bg.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th2_sym_bg.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_help_fragment_5.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/help_fragment_5.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_help_fragment_3.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\help_fragment_3.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_symbols1.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/symbols1.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_previous.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\previous.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th3_sym_delete.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th3_sym_delete.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th3_sym_bg_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th3_sym_bg_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th3_sym_toggle_eng.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th3_sym_toggle_eng.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/raw_click.mp3.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/raw/click.mp3"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th1_sym_bg.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th1_sym_bg.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/layout-v21/notification_action.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dummy.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\dummy.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_init_setting_explain.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/init_setting_explain.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_feedback_button_1.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-mdpi\\feedback_button_1.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th4_sym_delete.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th4_sym_delete.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\25952e8f3e288eb6a1f407e5e09cddb6\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th3_sym_nota.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th3_sym_nota.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_initialize_info_1_en.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\initialize_info_1_en.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th4_sym_nota.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th4_sym_nota.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_symbols1_num.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/symbols1_num.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_initial_button_2_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\initial_button_2_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_setting_layout_cell.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/setting_layout_cell.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_init_setting_main.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\init_setting_main.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th4_nota.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th4_nota.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_thumb_qwerty_theme3_glow.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\thumb_qwerty_theme3_glow.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th4_sym_capslock.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th4_sym_capslock.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_preference_adapter.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\preference_adapter.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_sym_keyboard_delete.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/sym_keyboard_delete.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_symbols1.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\symbols1.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_help_fragment_0.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/help_fragment_0.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\logo.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_pref_listview_top.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/pref_listview_top.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_preference_checkbox_off.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\preference_checkbox_off.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_nkey.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/nkey.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th2_sym_toggle_kor.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th2_sym_toggle_kor.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_preference_adapter.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/preference_adapter.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th4_key_bg.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th4_key_bg.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th1_sym_shifted.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th1_sym_shifted.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_setting_keyheight_numpad.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\setting_keyheight_numpad.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_alert_with_cancel.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/alert_with_cancel.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th4_nota.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th4_nota.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_setting_keyheight_numpad.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/setting_keyheight_numpad.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_alert_confirm_text.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\alert_confirm_text.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_layoutthumb_qwerty_theme1_glow.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/layoutthumb_qwerty_theme1_glow.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_qwerty_num.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\qwerty_num.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_statistics_spinner_bg.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/statistics_spinner_bg.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_init_setting_explain_en.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\init_setting_explain_en.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/77673e96969a9e4ade8f3d864fd6b37c/res/layout/notification_template_big_media.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dialog_button_right.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\dialog_button_right.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_icon.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/icon.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_qwerty_num_en.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\qwerty_num_en.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th1_sym_bg.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th1_sym_bg.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th3_sym_shifted.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th3_sym_shifted.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th3_sym_bg.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th3_sym_bg.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_bg_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\spinner_bg_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_symbols2_num_en.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/symbols2_num_en.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dialog_button_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\dialog_button_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_preference_checkbox_off.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/preference_checkbox_off.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_help_fragment_4.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\help_fragment_4.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th4_sym_toggle_kor.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th4_sym_toggle_kor.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_navigation_b_selected_15.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/navigation_b_selected_15.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_setting_layout_cell.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\setting_layout_cell.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_text_logo.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/text_logo.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th2_sym_nota.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th2_sym_nota.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_introduce_1.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/introduce_1.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_listview_bg_header.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/listview_bg_header.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th1_sym_delete.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th1_sym_delete.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_alert_left_cancel.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/alert_left_cancel.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_share_icon_blue.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\share_icon_blue.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th2_key_bg.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th2_key_bg.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_numkey_on_150.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/numkey_on_150.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_numkey_on_150.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\numkey_on_150.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th4_sym_bg_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th4_sym_bg_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sym_keyboard_shift.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\sym_keyboard_shift.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_initial_button_1_disabled.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/initial_button_1_disabled.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th4_sym_nota.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th4_sym_nota.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_setting_gridview.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/setting_gridview.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dialog_button_left_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\dialog_button_left_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_prefs.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/prefs.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_initial_button_1.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-mdpi\\initial_button_1.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_dialog_button_left.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/dialog_button_left.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_initial_button_2_blank.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-mdpi\\initial_button_2_blank.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_alert_confirm_text.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/alert_confirm_text.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_symbols2_num_en.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\symbols2_num_en.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th1_sym_sp.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th1_sym_sp.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th4_sym_shifted.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th4_sym_shifted.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_check_default.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\check_default.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th4_key_bg.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th4_key_bg.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_setting_lang_cell.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\setting_lang_cell.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/77673e96969a9e4ade8f3d864fd6b37c/res/layout/notification_media_cancel_action.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_init_setting_main.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/init_setting_main.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_layoutthumb_danmoeum_theme1_glow.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\layoutthumb_danmoeum_theme1_glow.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_symbols2_num.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/symbols2_num.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th3_key_bg_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th3_key_bg_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_help_fragment_2.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/help_fragment_2.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\icon.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_alert_confirm.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/alert_confirm.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-mdpi_initial_button_2_blank.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-mdpi/initial_button_2_blank.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_listview_bg_top.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\listview_bg_top.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_dialog_maintextpart_bg.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/dialog_maintextpart_bg.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th1_sym_sym.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th1_sym_sym.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th2_sym_bg.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th2_sym_bg.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_init_setting_explain.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\init_setting_explain.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_qwerty_num_en.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/qwerty_num_en.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_initializebutton1.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\initializebutton1.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_help_fragment_1.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/help_fragment_1.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_initial_button_2.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/initial_button_2.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_introduce_2.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\introduce_2.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_initial_button_1.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/initial_button_1.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_initial_button_2_blank.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\initial_button_2_blank.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th1_sym_nota.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th1_sym_nota.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_navigation_w_selected_15.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\navigation_w_selected_15.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_korean.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/korean.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th3_sym_nota.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th3_sym_nota.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_preference_text_blue.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/preference_text_blue.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sym_keyboard_delete.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\sym_keyboard_delete.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/77673e96969a9e4ade8f3d864fd6b37c/res/layout/notification_media_action.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_symbols1_en.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\symbols1_en.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th4_sym_shift.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th4_sym_shift.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_performance_test_collect_typo.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\performance_test_collect_typo.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_introduce_0.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/introduce_0.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_keyboard_map_view.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\keyboard_map_view.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_numbers.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/numbers.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_feedback_button_1_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-mdpi\\feedback_button_1_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_dialog_button_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/dialog_button_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_init_setting_try.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\init_setting_try.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/77673e96969a9e4ade8f3d864fd6b37c/res/layout/notification_template_big_media_narrow_custom.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th1_key_bg.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th1_key_bg.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_introduce_2.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/introduce_2.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_thumb_qwerty_theme1_glow.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\thumb_qwerty_theme1_glow.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th4_sym_toggle_eng.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th4_sym_toggle_eng.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_numpad_seekbar.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/numpad_seekbar.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th2_sym_bg_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th2_sym_bg_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th1_key_bg.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th1_key_bg.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th2_key_bg_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th2_key_bg_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-mdpi_initial_button_1_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-mdpi/initial_button_1_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_layoutthumb_qwerty_theme1_wo_glow.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\layoutthumb_qwerty_theme1_wo_glow.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th2_sym_sp.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th2_sym_sp.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th1_sym_toggle_eng.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th1_sym_toggle_eng.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_dialog_button_left_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/dialog_button_left_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th1_sym_enter.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th1_sym_enter.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_logo.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/logo.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_preference_text_blue.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\preference_text_blue.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/77673e96969a9e4ade8f3d864fd6b37c/res/layout/notification_template_media_custom.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_introduce_1.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\introduce_1.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable/notification_bg_low.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th4_sym_bg.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th4_sym_bg.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_thumb_qwerty_theme1_glow.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/thumb_qwerty_theme1_glow.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_initialize_info_1.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\initialize_info_1.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_input.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\input.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th2_sym_shifted.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th2_sym_shifted.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th3_sym_shift.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th3_sym_shift.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_listview_bg_bottom_no_padding.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/listview_bg_bottom_no_padding.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th1_sym_capslock.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th1_sym_capslock.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_numbers_symbol.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/numbers_symbol.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_statistics_share_icon_blue.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\statistics_share_icon_blue.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th1_sym_sp.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th1_sym_sp.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_statistics_adapter.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\statistics_adapter.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_qwerty_num.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/qwerty_num.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th2_sym_sp.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th2_sym_sp.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_navigation_w_selected_15.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/navigation_w_selected_15.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_spinner_bg.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/spinner_bg.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_text_logo.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\text_logo.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_initial_button_2_blank.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/initial_button_2_blank.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_korean_num.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\korean_num.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_dialog_button_right.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/dialog_button_right.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_numkey_off_150.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\numkey_off_150.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th2_sym_toggle_eng.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th2_sym_toggle_eng.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_prefs.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\prefs.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_layoutthumb_cheonjiin_theme1_glow.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/layoutthumb_cheonjiin_theme1_glow.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_layoutthumb_danmoeum_theme1_wo_glow.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\layoutthumb_danmoeum_theme1_wo_glow.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_korean_shift_num.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/korean_shift_num.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_navigation_b_selected_15.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\navigation_b_selected_15.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_initial_button_2_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/initial_button_2_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_thumb_qwerty_theme2_glow.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\thumb_qwerty_theme2_glow.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-mdpi_initial_button_1.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-mdpi/initial_button_1.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_performance_test_result.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/performance_test_result.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th4_sym_toggle_eng.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th4_sym_toggle_eng.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th2_sym_capslock.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th2_sym_capslock.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_preference_text_black.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\preference_text_black.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_method.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\method.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_lock_icon_512.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/lock_icon_512.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th3_sym_enter.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th3_sym_enter.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/layout/notification_template_part_time.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_alert_left_cancel.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\alert_left_cancel.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dialog_button.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\dialog_button.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_navigation_w_normal_15.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/navigation_w_normal_15.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_introduce_0.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\introduce_0.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_qwerty.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/qwerty.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_layoutthumb_qwerty_theme1_glow.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\layoutthumb_qwerty_theme1_glow.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_symbols2.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/symbols2.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\25952e8f3e288eb6a1f407e5e09cddb6\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_about.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/about.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_test_report_list.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\test_report_list.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_listview_bg_top_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/listview_bg_top_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_thumb_qwerty_theme1_wo_glow.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\thumb_qwerty_theme1_wo_glow.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_navigation_b_normal_15.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/navigation_b_normal_15.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_initial_button_1_disabled.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-mdpi\\initial_button_1_disabled.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_layoutthumb_qwerty_theme1_wo_glow.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/layoutthumb_qwerty_theme1_wo_glow.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_introduce_3.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\introduce_3.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_initialize_info_1_en.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/initialize_info_1_en.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dialog_maintextpart_bg.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\dialog_maintextpart_bg.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_share_icon_blue_pressed.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/share_icon_blue_pressed.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\about.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th1_sym_toggle_eng.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th1_sym_toggle_eng.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_thumb_qwerty_theme3_wo_glow.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\thumb_qwerty_theme3_wo_glow.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_initializebutton2.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/initializebutton2.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th3_nota.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th3_nota.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/77673e96969a9e4ade8f3d864fd6b37c/res/layout/notification_template_lines_media.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th3_sym_capslock.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th3_sym_capslock.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_init_setting_explain_en.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/init_setting_explain_en.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sym_keyboard_shifted.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\sym_keyboard_shifted.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th4_sym_enter.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th4_sym_enter.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\25952e8f3e288eb6a1f407e5e09cddb6\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_introduce_4.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/introduce_4.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_help_fragment_5.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\help_fragment_5.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th3_sym_enter.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th3_sym_enter.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_initialize.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/initialize.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th3_sym_toggle_kor.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th3_sym_toggle_kor.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/77673e96969a9e4ade8f3d864fd6b37c/res/layout/notification_template_big_media_custom.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_help_fragment_2.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\help_fragment_2.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_thumb_qwerty_theme2_glow.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/thumb_qwerty_theme2_glow.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_alert_right_confirm.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\alert_right_confirm.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_introduce_3.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/introduce_3.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_symbols2.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\symbols2.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_symbols1_num_en.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/symbols1_num_en.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th3_sym_bg_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th3_sym_bg_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_preference_checkbox.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/preference_checkbox.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_listview_bg_bottom.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\listview_bg_bottom.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_korean_num.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/korean_num.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_alert_confirm.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\alert_confirm.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/xml_symbols2_en.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/xml/symbols2_en.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th4_sym_delete.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th4_sym_delete.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-v21/notification_action_background.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_help_fragment_4.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/help_fragment_4.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dialog_titlepart_bg.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\dialog_titlepart_bg.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_setting_fragment_activity.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/setting_fragment_activity.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_korean_shift.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\korean_shift.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_alert_right_confirm.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/alert_right_confirm.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_korean_shift_num.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\korean_shift_num.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_introduce_5.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\introduce_5.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_sym_keyboard_shift.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/sym_keyboard_shift.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_nkey.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\nkey.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th4_sym_toggle_kor.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th4_sym_toggle_kor.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sym_keyboard_return.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\sym_keyboard_return.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_feedback_button_1_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/feedback_button_1_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_share_icon_blue_pressed.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\share_icon_blue_pressed.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th3_key_bg_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th3_key_bg_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_symbols1_num_en.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\symbols1_num_en.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_feedback_button_1.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/feedback_button_1.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_preference_checkbox_on.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\preference_checkbox_on.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th2_sym_sym.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th2_sym_sym.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th1_sym_bg_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th1_sym_bg_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th2_sym_shift.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th2_sym_shift.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th2_nota.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th2_nota.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/77673e96969a9e4ade8f3d864fd6b37c/res/layout/notification_template_media.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_preference_checkbox.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\preference_checkbox.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_bg.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\spinner_bg.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_layoutthumb_danmoeum_theme1_glow.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/layoutthumb_danmoeum_theme1_glow.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_listview_bg_header.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\listview_bg_header.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_statistics_adapter.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/statistics_adapter.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_feedback_button_1_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\feedback_button_1_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th2_sym_enter.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th2_sym_enter.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_introduce_4.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\introduce_4.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_input.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/input.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\25952e8f3e288eb6a1f407e5e09cddb6\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_thumb_qwerty_theme3_wo_glow.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/thumb_qwerty_theme3_wo_glow.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_thumb_qwerty_theme2_wo_glow.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\thumb_qwerty_theme2_wo_glow.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th2_sym_toggle_kor.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th2_sym_toggle_kor.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th2_sym_delete.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th2_sym_delete.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_help_fragment_3.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/help_fragment_3.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_space.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-hdpi\\sym_keyboard_space.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_icon_prev.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/icon_prev.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_feedback_button.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\feedback_button.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable/notification_icon_background.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sym_keyboard_capslock.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\sym_keyboard_capslock.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th1_sym_shift.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th1_sym_shift.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_alert.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\alert.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th1_sym_enter.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th1_sym_enter.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_symbols2_en.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\symbols2_en.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_numkey_off_150.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/numkey_off_150.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_feedback_button_1.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\feedback_button_1.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_layoutthumb_danmoeum_theme1_wo_glow.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/layoutthumb_danmoeum_theme1_wo_glow.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\layout_help_fragment_1.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\layout\\help_fragment_1.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th3_sym_shift.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th3_sym_shift.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_navigation_b_normal_15.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\navigation_b_normal_15.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_dialog_button_right_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/dialog_button_right_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th2_sym_shift.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th2_sym_shift.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable/notification_tile_bg.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_symbols2_num.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\symbols2_num.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/847e06fa39f14daf4d0e8ce6bbd561f8/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th1_sym_shift.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th1_sym_shift.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_login_main.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/login_main.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_initial_button_2.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-mdpi\\initial_button_2.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_alert.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/alert.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_listview_bg_top_pressed.9.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\listview_bg_top_pressed.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th4_key_bg_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th4_key_bg_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th1_sym_shifted.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th1_sym_shifted.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_spinner_bg_pressed.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/spinner_bg_pressed.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_qwerty_en.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\qwerty_en.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_dialog_titlepart_bg.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/dialog_titlepart_bg.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\raw_click.mp3.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\raw\\click.mp3"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_preference_text_gray.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/preference_text_gray.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\jaehunkim\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c8111e9e6aea4e79c9237a9ba97623\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th3_nota.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th3_nota.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_layoutthumb_cheonjiin_theme1_glow.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\layoutthumb_cheonjiin_theme1_glow.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/layout_test_report.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/layout/test_report.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_th1_sym_toggle_kor.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\th1_sym_toggle_kor.png"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable_initializebutton1.xml.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable/initializebutton1.xml"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_statistics_spinner_bg.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\statistics_spinner_bg.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_preference_checkbox_on.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/preference_checkbox_on.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable_initializebutton2.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable\\initializebutton2.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_progressbar_bg.9.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/progressbar_bg.9.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\xml_symbols1_num.xml.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\xml\\symbols1_num.xml"
     },
     {
-        "merged": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/res/merged/debug/drawable-xhdpi_th3_sym_sp.png.flat",
-        "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/drawable-xhdpi/th3_sym_sp.png"
+        "merged": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_navigation_w_normal_15.png.flat",
+        "source": "F:\\CS408-CSProject\\nota_beta\\res\\drawable-xhdpi\\navigation_w_normal_15.png"
     }
 ]

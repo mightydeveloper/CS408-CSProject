@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "F:\\CS408-CSProject\\nota_beta\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "/Users/jaehunkim/408projects/CS408-CSProject/nota_beta/res/values-land/dimens.xml",
+                    "source": "F:\\CS408-CSProject\\nota_beta\\res\\values-land\\dimens.xml",
                     "from": {
                         "startLines": "21,22",
                         "startColumns": "4,4",

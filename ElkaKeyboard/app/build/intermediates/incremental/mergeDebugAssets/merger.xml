@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\CS408-CSProject\ElkaKeyboard\app\assets"><file name="twitterterm.json" path="F:\CS408-CSProject\ElkaKeyboard\app\assets\twitterterm.json"/></source><source path="F:\CS408-CSProject\ElkaKeyboard\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\CS408-CSProject\ElkaKeyboard\app\src\debug\assets"/></dataSet></merger>
