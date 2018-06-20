@@ -1,2 +1,6 @@
 # CS408-CSProject
-2018 Spring CSProject - Sobriety Inspector by 김영석 / 김재헌 / 박재준
+Jae Jun Park's branch  
+Gait_app repository is android app.  
+It detects drunk with user's gait pattern.  
+After press start button, put phone on right outer jacket pocket and walk straight for 15 seconds.  
+It will predict whether user is drunk or not.  
